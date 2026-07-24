@@ -1,18 +1,18 @@
 {
   "main": [
     {
-      "name": "شکارچی حرفه‌ای",
-      "url": "https://automaton-media.com/en/wp-content/uploads/2026/07/20250606-48784-header.jpg",
+      "name": "فیلم ۱",
+      "url": "https://cdn.pixabay.com/photo/2023/12/01/15/23/nature-8224567_1280.jpg",
       "flag": "https://yourhost.com/play.php?id=1"
     },
     {
-      "name": "شب های تهران",
-      "url": "https://automaton-media.com/en/wp-content/uploads/2026/07/20250606-48784-header.jpg",
+      "name": "فیلم ۲",
+      "url": "https://cdn.pixabay.com/photo/2023/11/20/12/45/mountain-8401234_1280.jpg",
       "flag": "https://yourhost.com/play.php?id=2"
     },
     {
-      "name": "داستان عشق",
-      "url": "https://automaton-media.com/en/wp-content/uploads/2026/07/20250606-48784-header.jpg",
+      "name": "فیلم ۳",
+      "url": "https://images.unsplash.com/photo-1682687220742-aba13b6e50ba",
       "flag": "https://yourhost.com/play.php?id=3"
     }
   ]
