@@ -1,18 +1,19 @@
 {
-  "views": [
+  "main": [
     {
-      "name": "طبیعت گلستان",
-      "url": "https://s8.uupload.ir/files/ads1_5gh4.jpg",
-      "flag": "banner",
-      "IsADS": true,
-      "time": "5"
+      "name": "فیلم اکشن",
+      "url": "https://cdn.pixabay.com/photo/2023/01/01/1200x800.jpg",
+      "flag": "https://yourhost.com/play.php?id=1"
     },
     {
-      "name": "تبلیغ ۲",
-      "url": "https://s8.uupload.ir/files/ads1_5gh4.jpg://cdn.pixabay.com/photo/2023/.../tehran_1280.jpg",
-      "flag": "banner",
-      "IsADS": true,
-      "time": "4"
+      "name": "فیلم کمدی",
+      "url": "https://cdn.pixabay.com/photo/2022/12/25/1600x900.jpg",
+      "flag": "https://yourhost.com/play.php?id=2"
+    },
+    {
+      "name": "فیلم درام",
+      "url": "https://images.unsplash.com/photo-1682687220742-aba13b6e50ba",
+      "flag": "https://yourhost.com/play.php?id=3"
     }
   ]
 }
