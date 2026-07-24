@@ -1,18 +1,18 @@
 {
   "main": [
     {
-      "name": "فیلم ۱",
-      "url": "https://automaton-media.com/en/wp-content/uploads/2026/07/20250606-48784-header.jpg",
+      "name": "فیلم اکشن",
+      "url": "https://cdn.pixabay.com/photo/2023/01/01/1200x800.jpg",
       "flag": "https://yourhost.com/play.php?id=1"
     },
     {
-      "name": "فیلم ۲",
-      "url": "https://automaton-media.com/en/wp-content/uploads/2026/07/20250606-48784-header.jpg",
+      "name": "فیلم کمدی",
+      "url": "https://cdn.pixabay.com/photo/2022/12/25/1600x900.jpg",
       "flag": "https://yourhost.com/play.php?id=2"
     },
     {
-      "name": "فیلم ۳",
-      "url": "https://automaton-media.com/en/wp-content/uploads/2026/07/20250606-48784-header.jpg",
+      "name": "فیلم درام",
+      "url": "https://images.unsplash.com/photo-1682687220742-aba13b6e50ba",
       "flag": "https://yourhost.com/play.php?id=3"
     }
   ]
