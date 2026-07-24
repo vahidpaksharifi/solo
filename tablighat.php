@@ -1,32 +1,25 @@
-<?php
-header('Content-Type: application/json');
-header('Access-Control-Allow-Origin: *');
-
-// لیست تبلیغات با عکس‌های باکیفیت
-$ads = [
-    [
-        'name' => 'تبلیغ ۱',
-        'url' => 'https://yourhost.com/images/ad1.jpg',
-        'flag' => 'banner',
-        'IsADS' => true,
-        'time' => '5'  // زمان نمایش به ثانیه
-    ],
-    [
-        'name' => 'تبلیغ ۲',
-        'url' => 'https://yourhost.com/images/ad2.png',
-        'flag' => 'banner',
-        'IsADS' => true,
-        'time' => '4'
-    ],
-    [
-        'name' => 'تبلیغ ۳',
-        'url' => 'https://yourhost.com/images/ad3.webp',
-        'flag' => 'banner',
-        'IsADS' => true,
-        'time' => '6'
-    ]
-];
-
-// برگردوندن به فرمت JSON
-echo json_encode(['views' => $ads], JSON_UNESCAPED_SLASHES);
-?>
+{
+  "views": [
+    {
+      "name": "تبلیغ ۱",
+      "url": "https://cdn.pixabay.com/photo/2023/01/01/1200x800.jpg",
+      "flag": "banner",
+      "IsADS": true,
+      "time": "5"
+    },
+    {
+      "name": "تبلیغ ۲",
+      "url": "https://images.unsplash.com/photo-1601234567890.jpg",
+      "flag": "banner",
+      "IsADS": true,
+      "time": "4"
+    },
+    {
+      "name": "تبلیغ ۳",
+      "url": "https://cdn.pixabay.com/photo/2022/12/25/1600x900.jpg",
+      "flag": "banner",
+      "IsADS": true,
+      "time": "6"
+    }
+  ]
+}
