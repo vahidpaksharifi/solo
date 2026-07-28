@@ -1,0 +1,7 @@
+{
+  "main": [
+    { "name": "فیلم اکشن", "image": "https://cdn.pixabay.com/photo/2023/01/01/1200x800.jpg", "link": "" },
+    { "name": "فیلم کمدی", "image": "https://cdn.pixabay.com/photo/2023/01/01/1200x800.jpg", "link": "" },
+    { "name": "فیلم درام", "image": "https://cdn.pixabay.com/photo/2023/01/01/1200x800.jpg", "link": "" }
+  ]
+}
