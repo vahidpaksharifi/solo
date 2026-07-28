@@ -2,18 +2,18 @@
   "main": [
     {
       "name": "فیلم اکشن",
-      "url": "https://cdn.pixabay.com/photo/2023/01/01/1200x800.jpg",
+      "image": "https://cdn.pixabay.com/photo/2023/01/01/1200x800.jpg",
       "flag": "https://yourhost.com/play.php?id=1"
     },
     {
       "name": "فیلم کمدی",
-      "url": "https://cdn.pixabay.com/photo/2022/12/25/1600x900.jpg",
+      "image": "https://cdn.pixabay.com/photo/2022/12/25/1600x900.jpg",
       "flag": "https://yourhost.com/play.php?id=2"
     },
     {
       "name": "فیلم درام",
-      "url": "https://images.unsplash.com/photo-1682687220742-aba13b6e50ba",
-      "flag": "https://yourhost.com/play.php?id=3"
+      "image": "https://images.unsplash.com/photo-1682687220742-aba13b6e50ba",
+      "link": "https://yourhost.com/play.php?id=3"
     }
   ]
 }
