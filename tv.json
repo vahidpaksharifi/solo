@@ -1,19 +1,19 @@
 {
   "main": [
     {
-      "name": "فیلم اکشن",
-  
-      "url": "https://raw.githubusercontent.com/vahidpaksharifi/solo/refs/heads/main/play.json"
+      "name": "فیلم تست ۱",
+      "image": "https://www.w3schools.com/w3images/lights.jpg",
+      "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
-      "name": "فیلم کمدی",
-      "image": "https://cdn.pixabay.com/photo/2022/12/25/1600x900.jpg",
-      "flag": "https://raw.githubusercontent.com/vahidpaksharifi/solo/refs/heads/main/play.json"
+      "name": "فیلم تست ۲",
+      "image": "https://www.w3schools.com/w3images/nature.jpg",
+      "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
     },
     {
-      "name": "فیلم درام",
-      "image": "https://images.unsplash.com/photo-1682687220742-aba13b6e50ba",
-      "link": "https://raw.githubusercontent.com/vahidpaksharifi/solo/refs/heads/main/play.json"
+      "name": "فیلم تست ۳",
+      "image": "https://www.w3schools.com/w3images/fjords.jpg",
+      "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
     }
   ]
 }
