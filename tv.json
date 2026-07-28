@@ -2,17 +2,17 @@
   "main": [
     {
       "name": "فیلم تست ۱",
-      "image": "https://www.w3schools.com/w3images/lights.jpg",
+      "url": "https://www.w3schools.com/w3images/lights.jpg",
       "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     {
       "name": "فیلم تست ۲",
-      "image": "https://www.w3schools.com/w3images/nature.jpg",
+      "url": "https://www.w3schools.com/w3images/nature.jpg",
       "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
     },
     {
       "name": "فیلم تست ۳",
-      "image": "https://www.w3schools.com/w3images/fjords.jpg",
+      "url": "https://www.w3schools.com/w3images/fjords.jpg",
       "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
     }
   ]
