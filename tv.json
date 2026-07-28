@@ -2,8 +2,7 @@
   "main": [
     {
       "name": "فیلم اکشن",
-      "image": "https://cdn.pixabay.com/photo/2023/01/01/1200x800.jpg",
-      "flag": "https://yourhost.com/play.php?id=1"
+      "flag": "https://yourhost.com/play.json"
     },
     {
       "name": "فیلم کمدی",
