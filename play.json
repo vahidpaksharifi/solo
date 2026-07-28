@@ -1,7 +1,4 @@
 {
-  "main": [
-    { "name": "فیلم اکشن", "image": "https://cdn.pixabay.com/photo/2023/01/01/1200x800.jpg", "link": "" },
-    { "name": "فیلم کمدی", "image": "https://cdn.pixabay.com/photo/2023/01/01/1200x800.jpg", "link": "" },
-    { "name": "فیلم درام", "image": "https://cdn.pixabay.com/photo/2023/01/01/1200x800.jpg", "link": "" }
-  ]
+  "image": "https://www.w3schools.com/w3images/nature.jpg",
+  "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
 }
