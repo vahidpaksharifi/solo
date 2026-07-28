@@ -3,17 +3,7 @@
     {
       "name": "فیلم تست ۱",
       "url": "https://www.w3schools.com/w3images/lights.jpg",
-      "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-    },
-    {
-      "name": "فیلم تست ۲",
-      "url": "https://www.w3schools.com/w3images/nature.jpg",
-      "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-    },
-    {
-      "name": "فیلم تست ۳",
-      "url": "https://www.w3schools.com/w3images/fjords.jpg",
-      "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      "flag": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     }
   ]
 }
