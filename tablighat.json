@@ -3,14 +3,14 @@
     {
       "name": "بنر تست ۱",
       "url": "https://www.w3schools.com/w3images/lights.jpg",
-      "flag": "https://www.google.com",
+      "flag": "https://www.w3schools.com/w3images/lights.jpg",
       "IsADS": true,
       "time": "5"
     },
     {
       "name": "بنر تست ۲",
       "url": "https://www.w3schools.com/w3images/nature.jpg",
-      "flag": "https://www.wikipedia.org",
+      "flag": "https://www.w3schools.com/w3images/lights.jpg",
       "IsADS": true,
       "time": "5"
     }
