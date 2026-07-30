@@ -2,18 +2,8 @@
   "main": [
     {
       "name": "فیلم تست ۱",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-      "flag": "https://www.w3schools.com/w3images/lights.jpg"
-    },
-    {
-      "name": "فیلم تست ۲",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-      "flag": "https://www.w3schools.com/w3images/nature.jpg"
-    },
-    {
-      "name": "فیلم تست ۳",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "flag": "https://www.w3schools.com/w3images/fjords.jpg"
+      "flag": "https://www.w3schools.com/w3images/lights.jpg",
+      "url": "https://raw.githubusercontent.com/vahidpaksharifi/solo/refs/heads/main/movie1.json"
     }
   ]
 }
