@@ -2,18 +2,18 @@
   "main": [
     {
       "name": "فیلم تست ۱",
-      "url": "https://www.w3schools.com/w3images/lights.jpg",
-      "flag": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "flag": "https://www.w3schools.com/w3images/lights.jpg"
     },
     {
       "name": "فیلم تست ۲",
-      "url": "https://www.w3schools.com/w3images/nature.jpg",
-      "flag": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "flag": "https://www.w3schools.com/w3images/nature.jpg"
     },
     {
       "name": "فیلم تست ۳",
-      "url": "https://www.w3schools.com/w3images/fjords.jpg",
-      "flag": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "flag": "https://www.w3schools.com/w3images/fjords.jpg"
     }
   ]
 }
