@@ -1,19 +1,18 @@
 {
-  "main": [
+  "views": [
     {
-      "name": "فیلم اکشن",
-      "url": "https://cdn.pixabay.com/photo/2023/01/01/1200x800.jpg",
-      "flag": "https://yourhost.com/play.php?id=1"
+      "name": "بنر تست ۱",
+      "url": "https://www.w3schools.com/w3images/lights.jpg",
+      "flag": "https://www.google.com",
+      "IsADS": true,
+      "time": "5"
     },
     {
-      "name": "فیلم کمدی",
-      "url": "https://cdn.pixabay.com/photo/2022/12/25/1600x900.jpg",
-      "flag": "https://yourhost.com/play.php?id=2"
-    },
-    {
-      "name": "فیلم درام",
-      "url": "https://images.unsplash.com/photo-1682687220742-aba13b6e50ba",
-      "flag": "https://yourhost.com/play.php?id=3"
+      "name": "بنر تست ۲",
+      "url": "https://www.w3schools.com/w3images/nature.jpg",
+      "flag": "https://www.wikipedia.org",
+      "IsADS": true,
+      "time": "5"
     }
   ]
 }
